@@ -1,20 +1,22 @@
+/* Write your CSS here! */
+
 body {
-  background-color: #12fbc8;
+    background-color: #e4f3ae;
 }
 
 img {
 
-  width:350px ; 
-  height:350px ;
-  border-radius: 50%;
+    width:350px ; 
+    height:350px ;
+    border-radius: 50%;
 }
 
 h1,h2,h3 {
-  color: #3300CC ;
-  position: 0,500px;
+    color: #3300CC ;
+    position: 0,500px;
 }
 .h2 {
-  position : center ;
-  left : 300px ;
+    position : center ;
+    left : 300px ;
 }
 
