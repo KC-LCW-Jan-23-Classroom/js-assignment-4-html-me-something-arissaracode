@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+
+body {
+    background-color: #e4f3ae;
+}
+
+head {
+    color: red;
+}
+
+img {
+
+    width:350px ; 
+    height:350px ;
+    border-radius: 50%;
+}
+
+h1,h2,h3 {
+    color: #3300CC ;
+    position: 0,500px;
+}
+.h2 {
+    position : center ;
+    left : 300px ;
+}
+#testP {
+    color: green;
+    
+  }
+
+  .funParagraph {
+    color : green;
+  }
+ 
+#mainHeading{
+    color : red;
+}
+
