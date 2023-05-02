@@ -4,6 +4,10 @@ body {
     background-color: #e4f3ae;
 }
 
+head {
+    color: red;
+}
+
 img {
 
     width:350px ; 
@@ -18,5 +22,17 @@ h1,h2,h3 {
 .h2 {
     position : center ;
     left : 300px ;
+}
+#testP {
+    color: green;
+    
+  }
+
+  .funParagraph {
+    color : green;
+  }
+ 
+#mainHeading{
+    color : red;
 }
 
